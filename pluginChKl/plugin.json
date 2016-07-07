@@ -1,0 +1,13 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "pluginChKl",
+    "description"       : "boilerplate for plentymarkets plugins",
+    "author"            : "plentymarkets GmbH",
+    "keywords"          : ["plentymarkets", "plugin", "boilerplate"],
+    "type"              : "template",
+    "require"           : [],
+    "namespace"         : "pluginChKl",
+    "serviceProvider"   : "pluginChKl\\Providers\\PluginServiceProvider",
+    "javaScriptFiles"   :[]
+
+}
